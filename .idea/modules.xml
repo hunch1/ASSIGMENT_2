@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CODING.iml" filepath="$PROJECT_DIR$/.idea/CODING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osc10e-master/ch5/ch5.iml" filepath="$PROJECT_DIR$/osc10e-master/ch5/ch5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osc10e-master/osc10e-master.iml" filepath="$PROJECT_DIR$/osc10e-master/osc10e-master.iml" />
+    </modules>
+  </component>
+</project>
